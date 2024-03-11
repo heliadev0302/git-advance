@@ -10,4 +10,3 @@
 8. 5로돌아감
 
 9. 필요할 때 Push
-10. add content to README.md
