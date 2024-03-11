@@ -1,1 +1,46 @@
+# Markdown은 .md 확장자로 생성한다.
+
+## Heading(제목)
+제목은 #으로시작하며, 한칸 띄고 작성한다.
+총 6단계로 하위 제목을 분류할 수있다.
+편의상 H1~H6로 지칭하며, #의 개수로 구분한다
+
+# H1(대제목)
+## H2(하위제목)
+### 13
+
+## Paragragh(문단/내용)
+글을보통쓰듯이 쓰면된다.
+하지만 엔터를 한번치면, 줄바꿈이 되지 않는다.
+
+두번 엔터를 쳐야, 실제 문단 구분이 일어난다.
+
+
+## 가로선
+하이픈(-) 3개를 연속해서 작성시, 구분선 생성
+
+---
+
+## `init`
+```
+$ git init
+$ git commit -m 'MESSAGE'
+```
+
+## `remote add`
+```
+# git hub에 원격 저장소 생성 후 URL 획득
+$ git remote add origin 'URL'
+
+```
+
+## `push`
+```
+$git push origin master
+```
+
+## `clone`
+```
+# 현재 터미널의 위치에 다운로드함/
+$git clone 'remote repo URL'
 
